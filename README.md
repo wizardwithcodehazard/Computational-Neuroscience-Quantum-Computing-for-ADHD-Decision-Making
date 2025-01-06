@@ -1,4 +1,4 @@
-# Computational Neuroscience + Quantum Computing for ADHD Decision-Making
+# Computational Neuroscience + Quantum Computing for ADHD Decision-Making Using C
 
 This project combines computational neuroscience, quantum computing, and probabilistic decision-making to help individuals with ADHD (Attention-Deficit/Hyperactivity Disorder) make decisions more effectively. By utilizing a Leaky Integrate-and-Fire (LIF) neuron model and quantum-inspired gates, this project simulates cognitive decision-making processes, helping to simulate impulsivity and ADHD-like behaviors while also offering a probabilistic framework to improve decision accuracy.
 
